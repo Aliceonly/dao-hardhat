@@ -4,7 +4,6 @@ On chain ERC20 Governance
 2. 部署脚本
 3. 交互脚本
 
-
 yarn add hardhat
 init hardhat.config.js
 create governance contract
